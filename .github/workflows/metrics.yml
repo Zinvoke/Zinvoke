@@ -17,9 +17,6 @@ jobs:
           # Options
           user: Zinvoke
           template: classic
-          base: header, repositories
+          base: header, activity, community, repositories, metadata
           config_timezone: America/Toronto
-          plugin_languages: yes
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_threshold: 0%
+          plugin_gists: yes
