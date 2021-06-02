@@ -19,4 +19,3 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           config_timezone: America/Toronto
-          plugin_gists: yes
