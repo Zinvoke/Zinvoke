@@ -18,5 +18,5 @@ jobs:
           user: Zinvoke
           template: classic
           base: header, activity, community, repositories
-          config_padding: 0, 5%
+          config_padding: 0, 15%
           config_timezone: America/Toronto
